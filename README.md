@@ -33,11 +33,10 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 - 🎓 MCA Student (AI Specialization)
-- 💻 Currently learning **Full Stack Development**
+- 💻 Currently learning **Full Stack Development Using AI**
 - 🌱 Exploring **Front End Development**
 - 🤖 Interested in **Artificial Intelligence**
 - 🎯 Goal: Become a **Software Engineer**
-- ⚡ Fun fact: I love building real-world projects
 
 ---
 
